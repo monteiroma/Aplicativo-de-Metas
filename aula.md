@@ -34,8 +34,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Operadores
 
-- Operadores de atribuição de valor =
+- Operadores de atribuição de valor: =
 - Operador de contatenação +
+- Operadores de comparação: == (igual) != (diferente) <= (menor igual) >= (maior igual) < > (maior e menor)
 
 ## Estruturas de dados:
 
@@ -63,3 +64,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - Importação de modulos (require, CommonJS)
 - Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assincrona e Promises:
+
+- Uso de funçoes assincronas (async/await)
