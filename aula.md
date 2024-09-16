@@ -37,11 +37,13 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Operadores de atribuição de valor: =
 - Operador de contatenação +
 - Operadores de comparação: == (igual) != (diferente) <= (menor igual) >= (maior igual) < > (maior e menor)
+- Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays:
-- Lista que contem qualquer tipo de dado
+- Uma lista que contém qualquer tipo de dado
+- Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 
@@ -59,11 +61,15 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Condicionais
 - switch
+- if/else
 
 ## Modulos em Node.JS
 
 - Importação de modulos (require, CommonJS)
 - Biblioteca 'inquirer' para criar prompts interativos
+- Javascript Object Notation (.json)
+- JSON.parse(): transforma de JSON para JS
+- JSON.stringify(): transforma de JS para JSON
 
 ## Programação assincrona e Promises:
 
