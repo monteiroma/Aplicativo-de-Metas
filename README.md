@@ -1,4 +1,3 @@
 Projeto realizado para estudo 
 
-Controle de metas feita em JS puro para uso em terminal
-e treinamento em Git
+Controle de metas feita em Javascript para uso em terminal
