@@ -1,9 +1,4 @@
-## Linguagem de programação
-
-Maneira de dar instrução ao computador.
-Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas
-
-## **Algoritmos** : Sequencia de passos logicos e finita para resolução de um problema
+Tecnicas usadas para a criação desse programa a fim de estudar os seguintes tópicos:
 
 ## Peças de uma linguagem
 
